@@ -1,4 +1,4 @@
-## Hi there 👋 Nosso projeto se chama SyncDash 
+## SyncDash 
 Sistema Automatizado de Dashboard para Tomada de Decisões
 
 Pequenos negócios frequentemente enfrentam desafios na tomada de decisões estratégicas devido à falta de ferramentas práticas e acessíveis para análise de dados. Em um cenário de alta competitividade e necessidade de respostas rápidas, um sistema automatizado de dashboard apresenta-se como uma solução poderosa.
